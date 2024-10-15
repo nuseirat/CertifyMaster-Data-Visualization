@@ -4,7 +4,7 @@ This project provides a simple and effective way to visualize the data related t
 
 ## Overview
 
-CertifyMaster is an educational platform that offers a variety of free courses across multiple categories, including General, Security, and Databases. This project leverages Matplotlib to create insightful visual representations of course data, making it easier for users and stakeholders to understand course distribution by category, expiration type, and provider.
+CertifyMaster is an educational platform that offers a variety of free courses across multiple categories, including General, Security, and Databases. This project leverages Matplotlib to create insightful visual representations of course data, making it easier for users to understand course distribution by category, expiration type, and provider.
 
 ![Untitled](https://github.com/user-attachments/assets/fb01d757-bb10-49ad-902b-04d5fdee7d53)
 
