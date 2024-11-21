@@ -9,6 +9,7 @@ CertifyMaster is an educational platform that offers a variety of free courses a
 ![Untitled](https://github.com/user-attachments/assets/fb01d757-bb10-49ad-902b-04d5fdee7d53)
 
 
+
 ## Features
 
 - **Bar Chart**: Displays the number of free courses available in each category.
